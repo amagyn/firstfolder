@@ -1,29 +1,28 @@
-@import url('https://fonts.googleapis.com/css2?family=Kablammo&display=swap');
- body {
-    background: linear-gradient(#ffc0cb, yellow);
-    height: 100vh;
-    font-family:"Tilt Prism";
-    text-decoration: none;
+@import url("https://fonts.googleapis.com/css2?family=Kablammo&display=swap");
+body {
+  background: linear-gradient(#ffc0cb, yellow);
+  height: 100vh;
+  font-family: "Tilt Prism";
+  text-decoration: none;
 }
-
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 .cat {
-    height: 200px;
-    width: 300px;
-    background-color: white;
-    border: black 3px solid;
+  height: 200px;
+  width: 300px;
+  background-color: white;
+  border: black 3px solid;
 }
 .amagyn {
-height: 100px;
-width: 100px;
-background-color: #ffc0cb   ;
-border-radius: 50%;
+  height: 100px;
+  width: 100px;
+  background-color: #ffc0cb;
+  border-radius: 50%;
 }
 
 .color {
-    color: red;
-font-size:xx-small;
+  color: red;
+  font-size: xx-small;
 }
